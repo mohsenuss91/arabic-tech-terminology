@@ -8,7 +8,7 @@ Command Line | سطر الأوامر
 Compiler | مُجمِّع
 Compile | يُجمِّع
 Computer | حاسوب
-Concatenation | جمع
+Concatenation | تجميع
 Constructor | مُشيّد |
 Controller | متحكّم
 Cookie | كعكة
@@ -27,7 +27,7 @@ Mixin | خليط | تحتاج مراجعة
 Model | نموذج
 Module | وحدة
 Observer | راصد | مُراقب
-Parse | تفسير
+Parse | تفسير | تحويل
 Prototype | نموذج بِدئيّ | أنموذج
 Render | صَيَّرَ | رسم في المتصفح مثلاً
 Repository | مستودع
@@ -39,11 +39,12 @@ Return      | إعادة/إرجاع
 Return | يُعيد | في سياق دالّة (function) مثلًا
 Router | موجّه
 Routing | توجيه
-Script      | نص برمجيّ | مخطوطة برمجية
-Server | خادوم
+Script  | نص برمجيّ | مخطوطة برمجية
+Server | خادم
 Session | جلسة
-Shell | صدفة
-Template | قالب
+Shell | صدفة | قشرة النظام 
+Template | قالب | تصميم
 Templating | قولبة
 Terminal | طرفية
 View | منظور | طريقة عرض
+DTO | كائن نقل البيانات
